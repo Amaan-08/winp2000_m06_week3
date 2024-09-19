@@ -14,14 +14,16 @@ Each distribution is designed for specific purposes, from general use to more sp
 ## Essential Linux Commands
 Here’s a list of common Linux commands:
 
-ls: Displays files and directories.
-cd: Changes the current directory.
-pwd: Shows the present working directory.
-mkdir: Creates a new directory.
-cp: Copies files or directories.
-mv: Moves or renames files or directories.
-rm: Deletes files or directories.
-sudo: Runs a command with superuser privileges.
+| Command | Description                          |
+|---------|--------------------------------------|
+| `ls`    | List files and directories           |
+| `cd`    | Change directories                   |
+| `pwd`   | Print working directory              |
+| `mkdir` | Create a new directory               |
+| `cp`    | Copy files or directories            |
+| `mv`    | Move or rename files or directories  |
+| `rm`    | Remove files or directories          |
+| `sudo`  | Execute a command as the superuser   |
 ## Conclusion
 This document has provided an overview of Linux's rich history, its varied distributions, and key commands. Gaining proficiency in Linux is a valuable asset that can lead to many opportunities in the technology sector.
 
