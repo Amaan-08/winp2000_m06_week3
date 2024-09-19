@@ -11,3 +11,14 @@ Debian: Valued for its stability and effective package management.
 Fedora: Known for integrating cutting-edge technologies.
 Arch Linux: Features a rolling release system, catering to experienced users.
 Each distribution is designed for specific purposes, from general use to more specialized applications.
+## Essential Linux Commands
+Here’s a list of common Linux commands:
+
+ls: Displays files and directories.
+cd: Changes the current directory.
+pwd: Shows the present working directory.
+mkdir: Creates a new directory.
+cp: Copies files or directories.
+mv: Moves or renames files or directories.
+rm: Deletes files or directories.
+sudo: Runs a command with superuser privileges.
